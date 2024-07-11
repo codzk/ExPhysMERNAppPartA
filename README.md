@@ -1,4 +1,12 @@
-# ExPhys Clinic
+# ExPhys Clinic MERN APP
+
+## Developer - Ezekiel Milne
+
+### Links
+
+[Github](https://github.com/codzk/ExPhysMERNapp)
+[Figma](https://www.figma.com/design/ycf5iJoNmEqWKPMvX6V06C/Untitled?node-id=0-1&t=gFlNY7CBl87KXBMZ-1)
+[Trello](https://trello.com/b/RMYrKqlC/exphys-mern-app)
 
 ## Purpose
 The ExPhys Clinic website aims to provide comprehensive information about the clinical exercise physiology services offered, facilitate easy communication between potential clients and the clinic, and offer an administrative dashboard for managing client interactions and appointments.
@@ -47,70 +55,117 @@ The ExPhys Clinic website aims to provide comprehensive information about the cl
 
 ## Dataflow Diagram
 
-![dataflow](./docs/image.png)
+![dataflow](./docs/DataFlowDiagram.png)
 
 ## Application Architecture Diagram
 
-![Application Architecture Diagram](image-1.png)
+![alt text](./docs/Application%20Architecture%20Diagram.png)
 
-## User Stories
+# User Stories
 
-#### User Story 1:
+## User Story 1
 **Persona:** Sarah, a new client  
-**What:** Register for an account  
-**Why:** So she can access the services and track her progress
+**What:** Access information about the clinic and exercise physiology  
+**Why:** To understand the services offered and how they can benefit her health and fitness
 
 **Refined Version:**
-"As Sarah, a new client, I want to register for an account easily, with minimal steps and clear instructions, so that I can quickly access the services and start tracking my fitness progress."
+"As Sarah, a new client, I want to easily access detailed information about ExPhys Clinic and exercise physiology so that I can understand the services offered and how they can benefit my health and fitness."
 
 ---
 
-#### User Story 2:
+## User Story 2
 **Persona:** Dr. James, an exercise physiologist  
-**What:** View client profiles  
-**Why:** To understand their health history and create personalized plans
+**What:** View client inquiries from the contact form  
+**Why:** To respond to potential clients and manage their questions and concerns
 
 **Refined Version:**
-"As Dr. James, an exercise physiologist, I want to access comprehensive client profiles that include detailed health histories and personal information, so that I can develop tailored exercise plans for each client."
+"As Dr. James, an exercise physiologist, I want to view client inquiries submitted through the 'Get in Touch' contact form so that I can respond promptly and manage their questions and concerns effectively."
 
 ---
 
-#### User Story 3:
+## User Story 3
 **Persona:** Emily, a returning client  
-**What:** Log in to her account  
-**Why:** To check her progress history and update her profile
+**What:** View detailed information about the services offered  
+**Why:** To decide which service (e.g., Home Visit, 1:1 Gym Session, Hydrotherapy, Telehealth) is best suited for her current needs
 
 **Refined Version:**
-"As Emily, a returning client, I want to quickly log in to my account with secure authentication, so that I can review my past progress records and update my profile as needed."
+"As Emily, a returning client, I want to view detailed information about the services offered by ExPhys Clinic so that I can decide which service is best suited for my current needs."
 
 ---
 
-#### User Story 4:
+## User Story 4
 **Persona:** Dr. John, an admin  
-**What:** Manage client profiles  
-**Why:** To ensure all client information is up-to-date and accurate
+**What:** Manage contact submissions from the admin dashboard  
+**Why:** To ensure all client inquiries are addressed and followed up on
 
 **Refined Version:**
-"As Dr. John, an admin, I want to have a clear and intuitive interface for managing client profiles, so that I can ensure all client information is up-to-date and accurate."
+"As Dr. John, an admin, I want to manage contact submissions through the admin dashboard so that I can ensure all client inquiries are addressed and followed up on in a timely manner."
 
 ---
 
-#### User Story 5:
-**Persona:** Anna, a client  
-**What:** Update her profile information  
-**Why:** To keep her health data current and accurate
+## User Story 5
+**Persona:** Anna, a potential client  
+**What:** Access the "Meet Our Expert" section  
+**Why:** To learn more about the qualifications and experience of Angeli Milne, the Clinical Exercise Physiologist
 
 **Refined Version:**
-"As Anna, a client, I want to easily update my profile information through a user-friendly interface, so that my health data remains current and accurate for better personalized care."
+"As Anna, a potential client, I want to access the 'Meet Our Expert' section easily so that I can learn more about the qualifications and experience of Angeli Milne, the Clinical Exercise Physiologist."
 
 ---
 
-#### User Story 6:
+## User Story 6
 **Persona:** Dr. Lisa, an exercise physiologist  
-**What:** Access the admin dashboard  
-**Why:** To view business metrics and client activity
+**What:** View the admin dashboard  
+**Why:** To see an overview of business metrics and client inquiries
 
 **Refined Version:**
-"As Dr. Lisa, an exercise physiologist, I want to access a comprehensive admin dashboard that provides real-time business metrics and detailed client activity, so that I can make informed decisions and improve service efficiency."
+"As Dr. Lisa, an exercise physiologist, I want to access a comprehensive admin dashboard that provides an overview of business metrics and client inquiries so that I can make informed decisions and improve service efficiency."
+
+---
+
+## User Story 7
+**Persona:** Michael, a prospective client with a busy schedule  
+**What:** Contact the clinic outside of business hours  
+**Why:** To ensure he can reach out and get information even when the clinic is closed
+
+**Refined Version:**
+"As Michael, a prospective client with a busy schedule, I want to be able to contact the clinic outside of business hours so that I can get information and inquire about services at a convenient time for me."
+
+---
+
+## User Story 8
+**Persona:** Jessica, an admin  
+**What:** Update and manage appointments in the admin dashboard  
+**Why:** To ensure all client appointments are organized and up to date
+
+**Refined Version:**
+"As Jessica, an admin, I want to update and manage appointments in the admin dashboard so that I can ensure all client appointments are organized and up to date."
 
 
+# Wireframes
+
+
+
+![alt text](./docs/wireframe1.png)
+![alt text](./docs/wireframe2.png)
+![alt text](./docs/wireframe3.png)
+![alt text](./docs/wireframe4.png)
+![alt text](./docs/wireframe5.png)
+![alt text](./docs/wireframe6.png)
+![alt text](./docs/wireframe7.png)
+![alt text](./docs/wireframe8.png)
+![alt text](./docs/wireframe9.png)
+![alt text](./docs/wireframe10.png)
+
+# Screenshots (Trello)
+
+![alt text](./docs/trello1.png)
+![alt text](./docs/trello2.png)
+![alt text](./docs/trello3.png)
+![alt text](./docs/trello4.png)
+![alt text](./docs/trello5.png)
+![alt text](./docs/trello6.png) 
+![alt text](./docs/trello7.png) 
+![alt text](./docs/trello8.png)
+![alt text](./docs/trello9.png)
+![alt text](./docs/trello10.png)
