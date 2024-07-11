@@ -52,6 +52,7 @@ The ExPhys Clinic website aims to provide comprehensive information about the cl
 - **Draw.io:** For creating diagrams such as data flow diagrams and application architecture diagrams.
 - **VS Code:** As the code editor.
 - **GitHub:** For version control and collaboration.
+- **Trello:** For project management and tracking tasks.
 
 ## Dataflow Diagram
 
